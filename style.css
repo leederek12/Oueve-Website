@@ -1,6 +1,7 @@
 html, body {
     width: 100%;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 #features {
     top: -50px;
